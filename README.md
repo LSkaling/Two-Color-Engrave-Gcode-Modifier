@@ -1,0 +1,1 @@
+This program modifies a gcode file to add filament swaps and re-arrange the order of the infill to allow for two layers of infill, useful for multi-color engraving on a single extruder. Use at your own risk, it has not been thoroughly tested. Only works with PrusaSlicer sliced files (for now). 
